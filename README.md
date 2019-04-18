@@ -1,0 +1,1 @@
+# GraphQL-Schema-Role-Registry
